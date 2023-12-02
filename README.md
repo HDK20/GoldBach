@@ -8,4 +8,11 @@ Wikipedia: [*Goldbach's conjecture*](https://en.wikipedia.org/wiki/Goldbach%27s_
 
 We are looking for a optimized way to computing very fast and in a liner speed not in exponential speed, the most biggest even number that culculated with ***Super Computers*** is  4×10<sup>18</sup>. Maybe you think that How can we prove Goldbach conjecture with programming?, So I must say that we dont want to prove it, We are looking for a Counterexample so that's why We insist on speeding up the algorithm.
 
+### Letter from Goldbach to Euler dated 7 June 1742
+
+<p align="center">
+  <img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Letter_Goldbach-Euler.jpg/800px-Letter_Goldbach-Euler.jpg">
+</p>
+
+
 
